@@ -1,0 +1,13 @@
+[
+    {
+        "id_bebida": 1,
+        "nome_bebida": "coca cola",
+        "preco_bebida": 8.0,
+        "tempo_preparo_bebida": 0,
+        "imagem_bebida": "refrigerante.jpeg",
+        "ingredientes_bebida": [
+            "a\u00e7ucar",
+            "agua"
+        ]
+    }
+]

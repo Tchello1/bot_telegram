@@ -1,0 +1,42 @@
+[
+    {
+        "id_usuario": 1,
+        "email": "marcelo_lopes@hotmail.com",
+        "senha": "123",
+        "nome_cliente": "Jo\u00c3\u00a3o Silva",
+        "cpf": "123.456.789-00",
+        "endereco_entrega": "Rua ABC, 123",
+        "telefone": "123456789",
+        "quantidade_pedidos": 3
+    },
+    {
+        "id_usuario": 2,
+        "email": "cliente2@exemplo.com",
+        "senha": "hashed_senha_cliente2",
+        "nome_cliente": "Maria Oliveira",
+        "cpf": "987.654.321-00",
+        "endereco_entrega": "Avenida XPTO, 456",
+        "telefone": "987654321",
+        "quantidade_pedidos": 1
+    },
+    {
+        "id_usuario": 3,
+        "email": "marcelotu559@gmail.com",
+        "senha": "123",
+        "nome_cliente": "Marcelo Lopes da Silva",
+        "cpf": "042.263.171-24",
+        "endereco_entrega": "Av brasil",
+        "telefone": "65992286908",
+        "quantidade_pedidos": 7
+    },
+    {
+        "id_usuario": 4,
+        "email": "cyberpythonedux@gmail.com",
+        "senha": "senha123",
+        "nome_cliente": "tiago teste da silva",
+        "cpf": "043.263.171-24",
+        "endereco_entrega": "av brasil",
+        "telefone": "65992286908",
+        "quantidade_pedidos": 1
+    }
+]

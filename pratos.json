@@ -1,0 +1,25 @@
+[
+    {
+        "id_prato": 1,
+        "nome_prato": "Risoto",
+        "preco_prato": 10.0,
+        "tempo_preparo_prato": 40,
+        "imagem_prato": "risoto.jpg",
+        "ingredientes_prato": [
+            "arroz",
+            "carne",
+            "molho branco"
+        ]
+    },
+    {
+        "id_prato": 2,
+        "nome_prato": "big mac",
+        "preco_prato": 20.0,
+        "tempo_preparo_prato": 30,
+        "imagem_prato": "lanche.jpg",
+        "ingredientes_prato": [
+            "gordura",
+            "gordura"
+        ]
+    }
+]

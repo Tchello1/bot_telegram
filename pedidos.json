@@ -1,0 +1,90 @@
+[
+    {
+        "id_pedido": 5,
+        "id_cliente": 1,
+        "itens_pedido": [
+            {
+                "id_prato": 2,
+                "quantidade": 2
+            },
+            {
+                "id_bebida": 1,
+                "quantidade": 1
+            }
+        ],
+        "status_pedido": "pronto",
+        "tempo_total_pedido": 30,
+        "valor_total_pedido": 48.0,
+        "data_pedido": "2025-02-27T03:20:32.847643",
+        "metodo_pagamento": "dinheiro",
+        "endereco_entrega": "Av brasil",
+        "observacoes_cliente": "Sem salada",
+        "avaliacao_pedido": "n\u00c3\u00a3o avaliado"
+    },
+    {
+        "id_pedido": 9,
+        "id_cliente": 3,
+        "itens_pedido": [
+            {
+                "id_prato": 2,
+                "quantidade": 1
+            },
+            {
+                "id_bebida": 1,
+                "quantidade": 1
+            }
+        ],
+        "status_pedido": "entregue",
+        "tempo_total_pedido": 30,
+        "valor_total_pedido": 28.0,
+        "data_pedido": "2025-02-27T03:39:43.246427",
+        "metodo_pagamento": "pix",
+        "endereco_entrega": "Av brasil",
+        "observacoes_cliente": "Com ketchup",
+        "avaliacao_pedido": 4
+    },
+    {
+        "id_pedido": 10,
+        "id_cliente": 3,
+        "itens_pedido": [
+            {
+                "id_prato": 2,
+                "quantidade": 1
+            },
+            {
+                "id_bebida": 1,
+                "quantidade": 1
+            }
+        ],
+        "status_pedido": "entregue",
+        "tempo_total_pedido": 30,
+        "valor_total_pedido": 28.0,
+        "data_pedido": "2025-02-27T03:39:43.246427",
+        "metodo_pagamento": "pix",
+        "endereco_entrega": "Av brasil",
+        "observacoes_cliente": "Com ketchup",
+        "avaliacao_pedido": "n\u00c3\u00a3o avaliado"
+    },
+    {
+        "id_pedido": 11,
+        "id_cliente": 4,
+        "itens_pedido": [
+            {
+                "id_prato": 1,
+                "quantidade": 3
+            },
+            {
+                "id_bebida": 1,
+                "quantidade": 2
+            }
+        ],
+        "status_pedido": "entregue",
+        "tempo_total_pedido": 40,
+        "valor_total_pedido": 46.0,
+        "data_pedido": "2025-02-27T10:55:12.879290",
+        "metodo_pagamento": "pix",
+        "endereco_entrega": "av brasil",
+        "observacoes_cliente": "sem salada",
+        "avaliacao_pedido": 4
+    }
+]

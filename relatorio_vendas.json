@@ -1,0 +1,16 @@
+{
+    "valor_total_vendas": 150.0,
+    "vendas_por_produto": {
+        "big mac": 80.0,
+        "coca cola": 40.0,
+        "Risoto": 30.0
+    },
+    "vendas_por_cliente": {
+        "1": 48.0,
+        "3": 56.0,
+        "4": 46.0
+    },
+    "media_itens_por_pedido": 3.0,
+    "media_avaliacoes": 4.0,
+    "quantidade_avaliacoes": 2
+}
